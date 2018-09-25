@@ -1,4 +1,4 @@
-#Twitter Tech Chats
+# Twitter Tech Chats
 
 All your favorite Twitter Tech Chats, in list form
 
@@ -20,7 +20,7 @@ Wednesday, 9pm EST
 [#CodersTeachingCoders](https://twitter.com/hashtag/CodersTeachingCoders?src=hash)
 Wednesday, 7pm EST
 
-##Contribute
+## Contribute
 
 Open a new pull request, with at least the following information
 
