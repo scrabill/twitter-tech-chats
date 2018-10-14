@@ -8,6 +8,9 @@ Sunday, 1pm EST
 [#WomeninTechChat](https://twitter.com/hashtag/WomeninTechChat?src=hash)
 Tuesday, 12pm EST
 
+[#CASChat](https://twitter.com/hashtag/CASChat?src=hash)
+Tuesday, 3pm EST
+
 [#DevDiscuss](https://twitter.com/hashtag/DevDiscuss?src=hash)
 Tuesdays, 9pm EST
 
@@ -19,6 +22,7 @@ Wednesday, 9pm EST
 
 [#CodersTeachingCoders](https://twitter.com/hashtag/CodersTeachingCoders?src=hash)
 Wednesday, 7pm EST
+
 
 ## Contribute
 
