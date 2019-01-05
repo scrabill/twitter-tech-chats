@@ -11,6 +11,9 @@ Tuesday, 12pm EST
 [#CASChat](https://twitter.com/hashtag/CASChat?src=hash)
 Tuesday, 3pm EST
 
+[#CodersTeach](https://twitter.com/hashtag/CodersTeach?src=hash)
+Tuesday, 7pm EST
+
 [#DevDiscuss](https://twitter.com/hashtag/DevDiscuss?src=hash)
 Tuesdays, 9pm EST
 
@@ -19,9 +22,6 @@ Wednesday, 1pm EST
 
 [#CodeNewbie](https://twitter.com/hashtag/CodeNewbie?src=hash)
 Wednesday, 9pm EST
-
-[#CodersTeachingCoders](https://twitter.com/hashtag/CodersTeachingCoders?src=hash)
-Wednesday, 7pm EST
 
 
 ## Contribute
