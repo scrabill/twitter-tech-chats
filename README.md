@@ -5,7 +5,7 @@ All your favorite Twitter Tech Chats, in list form
 [#ArtTechChat](https://twitter.com/hashtag/arttechchat?src=hash)
 Sunday, 1pm EST
 
-_Twitter chat on technology, art & design. Hosted by [@ASpittel](https://twitter.com/ASpittel) & [@dominicduffin1](https://twitter.com/dominicduffin1)_
+_Twitter chat on technology, art & design. Hosted by [@shannon_crabill](https://twitter.com/shannon_crabill) & [@dominicduffin1](https://twitter.com/dominicduffin1). Founded by [@ASpittel](https://twitter.com/ASpittel) & [@dominicduffin1](https://twitter.com/dominicduffin1)_
 
 [#WomeninTechChat](https://twitter.com/hashtag/WomeninTechChat?src=hash)
 Tuesday, 12pm EST
@@ -27,6 +27,8 @@ _[#Remotechat](https://twitter.com/workingrem) is a weekly forum for remote work
 
 [#CodeNewbie](https://twitter.com/hashtag/CodeNewbie?src=hash)
 Wednesday, 9pm EST
+
+_[CodeNewbie](https://twitter.com/CodeNewbies) is the most supportive community of programmers and people learning to code_
 
 
 ## Contribute
